@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 
 ## About Me
 
-I am a .Net developer passionate about building modern and responsive websites.
+I am a .Net developer passionate about building modern softwares.
 
 ## Technologies Used
 
